@@ -9,12 +9,12 @@
   "author": "WhyNotme"
   "repository": {
     "type": "git",
-    "url": "https://github.com/YogaSakti/imageToSticker.git"
+    "url": "https://github.com/WhyyNotme/BotWa.git"
   },
   "bugs": {
-    "url": "https://github.com/YogaSakti/imageToSticker/issues"
+    "url": "https://github.com/WhyyNotme/BotWa/issuses"
   },
-  "homepage": "https://github.com/YogaSakti/imageToSticker",
+  "homepage": "https://github.com/WhyyNotme/BotWa",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^2.0.25",
