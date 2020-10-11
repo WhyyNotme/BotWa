@@ -4,7 +4,9 @@
 [![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
 <details>
  <summary>🥟 Help me!</summary>
-
+ 
+ [Saweriaku](https://saweria.co/donate/whyynotme)
+ 
  [Saweria](https://saweria.co/donate/yogasakti)
  
  [Trakteer](https://trakteer.id/red-emperor)
